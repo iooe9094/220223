@@ -1,0 +1,12 @@
+#container {
+    width : 400px;
+    margin : 50px auto;
+}
+
+#rect {
+    width : 100px;
+    height : 100px;
+    border : 1px solid #222;
+    margin : 30px auto;
+    transition: 1s;
+}
